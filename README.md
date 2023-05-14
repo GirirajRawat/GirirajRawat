@@ -57,7 +57,7 @@ I am a Python and Java Developer from Nepal.
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=KryssNa
+https://github-readme-streak-stats.herokuapp.com/?user=GirirajRawat
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GirirajRawat&theme=dark&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
 
